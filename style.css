@@ -26,3 +26,17 @@ h1{
     padding: 15px;
     border-radius: 99px 76px 95px 55px;
 }
+.btn4{
+    color:  #0086b3;
+    border: 5px dashed  #0086b3;
+    background-color: #80dfff;
+    padding: 14px;
+    border-radius: 50px;
+}
+.btn5{
+    color: #008080;
+    border: 3px solid #008080;
+    background-color: #99ffff;
+    padding: 14px;
+    border-radius: 40px 80px 40px 80px;
+}
