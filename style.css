@@ -1,7 +1,21 @@
+*{
+    background-color: rgb(180, 205, 205);
+}
+h1{
+    color:rgb(10, 95, 95);
+    
+}
 .btn1 {
     color:  #ff1a1a;
     background-color:  #ffb3b3;
     border: 2px solid #ff1a1a;
     padding: 10px;
     border-radius: 0 20px 0 20px;
+}
+.btn2{
+    color:  #ff00bf;
+    background-color:  #ff99e6;
+    border:5px double  #ff00bf;
+    padding: 12px;
+    border-radius: 55px 20px 55px 20px ;
 }
